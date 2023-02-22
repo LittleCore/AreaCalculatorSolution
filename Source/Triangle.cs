@@ -56,7 +56,6 @@ namespace AreaCalculator
                     hypotenusePow2 = Math.Pow(sides[i], 2);
             }
 
-            //****
             if (hypotenusePow2 == sumCathetusPow2)
             {
                 result = true;

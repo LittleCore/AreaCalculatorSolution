@@ -15,7 +15,6 @@ namespace AreaCalculator
             _name = name;
         }
 
-        //9879789428u
         public abstract double GetArea();
     }
 }

@@ -17,7 +17,6 @@ namespace AreaCalculator
             _radius = radius;
         }
 
-        //dhfisdufhiadshfaj
         public override double GetArea()
         {
             return Math.PI * _radius * _radius;
