@@ -1,0 +1,4 @@
+select p.Name as Name
+            p.Category as Category
+from Products p
+            left join Categorys c on c.ID = p.CategoryID
